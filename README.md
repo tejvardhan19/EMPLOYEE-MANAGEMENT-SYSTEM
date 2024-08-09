@@ -81,8 +81,7 @@ The Employee Management System is a web-based application designed to streamline
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/username/employee-management-system.git
-   cd employee-management-system
+  https://github.com/tejvardhan19/EMPLOYEE-MANAGEMENT-SYSTEM.git
 Setup Database:
 
 Configure MySQL/Oracle database and create the necessary tables.
